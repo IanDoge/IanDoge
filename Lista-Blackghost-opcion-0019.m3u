@@ -1,0 +1,681 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 19",BLACKGHOST 19
+https://blackghost.live/TV&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 19", http://paypal.me/blackghost
+https://blackghost.live/TV&f=.m3u8
+
+
+#EXTM3U
+#EXTINF:-1  group-title="Lista 19",Az Clic
+http://latinoamericatv.vip:8080/horacio/horacio123/63184
+#EXTINF:-1  group-title="Lista 19",Azteca 7
+http://latinoamericatv.vip:8080/horacio/horacio123/63185
+#EXTINF:-1  group-title="Lista 19",Hola TV
+http://latinoamericatv.vip:8080/horacio/horacio123/63186
+#EXTINF:-1  group-title="Lista 19",Mas Chic
+http://latinoamericatv.vip:8080/horacio/horacio123/63187
+#EXTINF:-1  group-title="Lista 19",GALA TV
+http://latinoamericatv.vip:8080/horacio/horacio123/63188
+#EXTINF:-1  group-title="Lista 19",Unicable
+http://latinoamericatv.vip:8080/horacio/horacio123/63189
+#EXTINF:-1  group-title="Lista 19",AZ Corazon
+http://latinoamericatv.vip:8080/horacio/horacio123/63191
+#EXTINF:-1  group-title="Lista 19",Comedy Central
+http://latinoamericatv.vip:8080/horacio/horacio123/63192
+#EXTINF:-1  group-title="Lista 19",Garage TV
+http://latinoamericatv.vip:8080/horacio/horacio123/63193
+#EXTINF:-1  group-title="Lista 19",Glitz
+http://latinoamericatv.vip:8080/horacio/horacio123/63194
+#EXTINF:-1  group-title="Lista 19",Distrito Comedia
+http://latinoamericatv.vip:8080/horacio/horacio123/63195
+#EXTINF:-1  group-title="Lista 19",TL NOVELAS
+http://latinoamericatv.vip:8080/horacio/horacio123/63196
+#EXTINF:-1  group-title="Lista 19",AZ Mundo
+http://latinoamericatv.vip:8080/horacio/horacio123/63197
+#EXTINF:-1  group-title="Lista 19",AZ Cinema
+http://latinoamericatv.vip:8080/horacio/horacio123/63198
+#EXTINF:-1  group-title="Lista 19",Sundance TV
+http://latinoamericatv.vip:8080/horacio/horacio123/63200
+#EXTINF:-1  group-title="Lista 19",Mexiquice
+http://latinoamericatv.vip:8080/horacio/horacio123/63201
+#EXTINF:-1  group-title="Lista 19",TELEVISA MONTERREY
+http://latinoamericatv.vip:8080/horacio/horacio123/63203
+#EXTINF:-1  group-title="Lista 19",Hola TV
+http://latinoamericatv.vip:8080/horacio/horacio123/63204
+#EXTINF:-1  group-title="Lista 19",Mas Chic
+http://latinoamericatv.vip:8080/horacio/horacio123/63205
+#EXTINF:-1  group-title="Lista 19",GALA TV
+http://latinoamericatv.vip:8080/horacio/horacio123/63206
+#EXTINF:-1  group-title="Lista 19",Unicable
+http://latinoamericatv.vip:8080/horacio/horacio123/63207
+#EXTINF:-1  group-title="Lista 19",ESTRELLA TV
+http://latinoamericatv.vip:8080/horacio/horacio123/63208
+#EXTINF:-1  group-title="Lista 19",FORO TV
+http://latinoamericatv.vip:8080/horacio/horacio123/63209
+#EXTINF:-1  group-title="Lista 19",CINE LATINO
+http://latinoamericatv.vip:8080/horacio/horacio123/63210
+#EXTINF:-1  group-title="Lista 19",CANAL ONCE
+http://latinoamericatv.vip:8080/horacio/horacio123/63211
+#EXTINF:-1  group-title="Lista 19",AZTECA UNO HD
+http://latinoamericatv.vip:8080/horacio/horacio123/63213
+#EXTINF:-1  group-title="Lista 19",MILENIO TV
+http://latinoamericatv.vip:8080/horacio/horacio123/63220
+#EXTINF:-1  group-title="Lista 19",De Pelicula
+http://latinoamericatv.vip:8080/horacio/horacio123/63734
+#EXTINF:-1  group-title="Lista 19",DE PELICULAS PLUS
+http://latinoamericatv.vip:8080/horacio/horacio123/63735
+#EXTINF:-1  group-title="Lista 19",De Pelicula Classico
+http://latinoamericatv.vip:8080/horacio/horacio123/63736
+#EXTINF:-1  group-title="Lista 19",A+
+http://latinoamericatv.vip:8080/horacio/horacio123/70860
+#EXTINF:-1  group-title="Lista 19",A+ FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70861
+#EXTINF:-1  group-title="Lista 19",A+ HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70862
+#EXTINF:-1  group-title="Lista 19",Azteca 7
+http://latinoamericatv.vip:8080/horacio/horacio123/70863
+#EXTINF:-1  group-title="Lista 19",Azteca 7 FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70864
+#EXTINF:-1  group-title="Lista 19",Azteca 7 HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70865
+#EXTINF:-1  group-title="Lista 19",Azteca Clic HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70866
+#EXTINF:-1  group-title="Lista 19",Azteca Corazon
+http://latinoamericatv.vip:8080/horacio/horacio123/70867
+#EXTINF:-1  group-title="Lista 19",Azteca Corazon FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70868
+#EXTINF:-1  group-title="Lista 19",Azteca Corazon HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70869
+#EXTINF:-1  group-title="Lista 19",Azteca HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70870
+#EXTINF:-1  group-title="Lista 19",Azteca Mundo
+http://latinoamericatv.vip:8080/horacio/horacio123/70871
+#EXTINF:-1  group-title="Lista 19",Azteca Mundo FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70872
+#EXTINF:-1  group-title="Lista 19",Azteca Mundo HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70873
+#EXTINF:-1  group-title="Lista 19",Azteca Uno
+http://latinoamericatv.vip:8080/horacio/horacio123/70874
+#EXTINF:-1  group-title="Lista 19",Azteca Uno -2 Horas
+http://latinoamericatv.vip:8080/horacio/horacio123/70875
+#EXTINF:-1  group-title="Lista 19",Azteca Uno FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70876
+#EXTINF:-1  group-title="Lista 19",Azteca Uno HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70877
+#EXTINF:-1  group-title="Lista 19",Azteca Uno HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70878
+#EXTINF:-1  group-title="Lista 19",Cadena H
+http://latinoamericatv.vip:8080/horacio/horacio123/70879
+#EXTINF:-1  group-title="Lista 19",Cadena H FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70880
+#EXTINF:-1  group-title="Lista 19",Canal 15 Fresnillo
+http://latinoamericatv.vip:8080/horacio/horacio123/70881
+#EXTINF:-1  group-title="Lista 19",CANAL 26 Aguascalientes
+http://latinoamericatv.vip:8080/horacio/horacio123/70882
+#EXTINF:-1  group-title="Lista 19",CANAL 26 Aguascalientes FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70883
+#EXTINF:-1  group-title="Lista 19",Canal 4 FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70884
+#EXTINF:-1  group-title="Lista 19",Canal 5
+http://latinoamericatv.vip:8080/horacio/horacio123/70885
+#EXTINF:-1  group-title="Lista 19",Canal 5 FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70886
+#EXTINF:-1  group-title="Lista 19",Canal 5 HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70887
+#EXTINF:-1  group-title="Lista 19",Canal 53 UANL
+http://latinoamericatv.vip:8080/horacio/horacio123/70888
+#EXTINF:-1  group-title="Lista 19",Canal 6.2 Multimedios Saltillo
+http://latinoamericatv.vip:8080/horacio/horacio123/70889
+#EXTINF:-1  group-title="Lista 19",Canal 66 Mexicali
+http://latinoamericatv.vip:8080/horacio/horacio123/70890
+#EXTINF:-1  group-title="Lista 19",CANAL 8
+http://latinoamericatv.vip:8080/horacio/horacio123/70891
+#EXTINF:-1  group-title="Lista 19",CANAL 8 FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70892
+#EXTINF:-1  group-title="Lista 19",Canal del Congreso
+http://latinoamericatv.vip:8080/horacio/horacio123/70893
+#EXTINF:-1  group-title="Lista 19",Canal Judicial HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70894
+#EXTINF:-1  group-title="Lista 19",Canal Once
+http://latinoamericatv.vip:8080/horacio/horacio123/70895
+#EXTINF:-1  group-title="Lista 19",Canal Once FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70896
+#EXTINF:-1  group-title="Lista 19",Canal Once HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70897
+#EXTINF:-1  group-title="Lista 19",CBTV Michoacan
+http://latinoamericatv.vip:8080/horacio/horacio123/70898
+#EXTINF:-1  group-title="Lista 19",Estudio 5
+http://latinoamericatv.vip:8080/horacio/horacio123/70899
+#EXTINF:-1  group-title="Lista 19",HLN
+http://latinoamericatv.vip:8080/horacio/horacio123/70900
+#EXTINF:-1  group-title="Lista 19",HLN HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70901
+#EXTINF:-1  group-title="Lista 19",Imagen TV
+http://latinoamericatv.vip:8080/horacio/horacio123/70902
+#EXTINF:-1  group-title="Lista 19",Imagen TV FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70903
+#EXTINF:-1  group-title="Lista 19",Imagen TV HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70904
+#EXTINF:-1  group-title="Lista 19",Las Estrellas
+http://latinoamericatv.vip:8080/horacio/horacio123/70905
+#EXTINF:-1  group-title="Lista 19",Las Estrellas -1 Hora
+http://latinoamericatv.vip:8080/horacio/horacio123/70906
+#EXTINF:-1  group-title="Lista 19",Las Estrellas -2 Horas
+http://latinoamericatv.vip:8080/horacio/horacio123/70907
+#EXTINF:-1  group-title="Lista 19",Las Estrellas FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70908
+#EXTINF:-1  group-title="Lista 19",Las Estrellas HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70909
+#EXTINF:-1  group-title="Lista 19",Mexicanal
+http://latinoamericatv.vip:8080/horacio/horacio123/70910
+#EXTINF:-1  group-title="Lista 19",Mexiquense
+http://latinoamericatv.vip:8080/horacio/horacio123/70911
+#EXTINF:-1  group-title="Lista 19",Mexiquense FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70912
+#EXTINF:-1  group-title="Lista 19",Multimedios
+http://latinoamericatv.vip:8080/horacio/horacio123/70913
+#EXTINF:-1  group-title="Lista 19",Multimedios FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70914
+#EXTINF:-1  group-title="Lista 19",Multimedios Guadalajara
+http://latinoamericatv.vip:8080/horacio/horacio123/70915
+#EXTINF:-1  group-title="Lista 19",Multimedios HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70916
+#EXTINF:-1  group-title="Lista 19",Multimedios Laguna
+http://latinoamericatv.vip:8080/horacio/horacio123/70917
+#EXTINF:-1  group-title="Lista 19",Multimedios Plus
+http://latinoamericatv.vip:8080/horacio/horacio123/70918
+#EXTINF:-1  group-title="Lista 19",Multimedios Plus HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70919
+#EXTINF:-1  group-title="Lista 19",MVM Noticias Oaxaca
+http://latinoamericatv.vip:8080/horacio/horacio123/70920
+#EXTINF:-1  group-title="Lista 19",MVS TV
+http://latinoamericatv.vip:8080/horacio/horacio123/70921
+#EXTINF:-1  group-title="Lista 19",MVS TV HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70922
+#EXTINF:-1  group-title="Lista 19",Nu9ve
+http://latinoamericatv.vip:8080/horacio/horacio123/70923
+#EXTINF:-1  group-title="Lista 19",Nu9ve FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70924
+#EXTINF:-1  group-title="Lista 19",Nu9ve TV HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70925
+#EXTINF:-1  group-title="Lista 19",RCG 1 Saltillo
+http://latinoamericatv.vip:8080/horacio/horacio123/70926
+#EXTINF:-1  group-title="Lista 19",RCG 2 Saltillo
+http://latinoamericatv.vip:8080/horacio/horacio123/70927
+#EXTINF:-1  group-title="Lista 19",RCG 3 Saltillo
+http://latinoamericatv.vip:8080/horacio/horacio123/70928
+#EXTINF:-1  group-title="Lista 19",RTQ Queretaro
+http://latinoamericatv.vip:8080/horacio/horacio123/70929
+#EXTINF:-1  group-title="Lista 19",Sipse TV Cancun
+http://latinoamericatv.vip:8080/horacio/horacio123/70930
+#EXTINF:-1  group-title="Lista 19",Telemax
+http://latinoamericatv.vip:8080/horacio/horacio123/70931
+#EXTINF:-1  group-title="Lista 19",Telemax Hermosillo
+http://latinoamericatv.vip:8080/horacio/horacio123/70932
+#EXTINF:-1  group-title="Lista 19",TeleVer FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70933
+#EXTINF:-1  group-title="Lista 19",Televisa (Leon) FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70934
+#EXTINF:-1  group-title="Lista 19",Televisa Monterrey
+http://latinoamericatv.vip:8080/horacio/horacio123/70935
+#EXTINF:-1  group-title="Lista 19",A+ HQ
+http://latinoamericatv.vip:8080/horacio/horacio123/70936
+#EXTINF:-1  group-title="Lista 19",Azteca 7
+http://latinoamericatv.vip:8080/horacio/horacio123/70937
+#EXTINF:-1  group-title="Lista 19",Azteca 7 FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/70938
+#EXTINF:-1  group-title="Lista 19",Azteca 7 HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70939
+#EXTINF:-1  group-title="Lista 19",Azteca Clic HD
+http://latinoamericatv.vip:8080/horacio/horacio123/70940
+#EXTM3U
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS AR  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/58
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS HD  CL
+http://latinoamericatv.vip:8080/horacio/horacio123/59
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS 2  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/60
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS 2  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/61
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS 2  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/62
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS 1  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/63
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS 1  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/64
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS 1  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/65
+#EXTINF:-1  group-title="Lista 19",LAT | ESPN 3  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/66
+#EXTINF:-1  group-title="Lista 19",LAT | ESPN 3  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/68
+#EXTINF:-1  group-title="Lista 19",LAT | ESPN 3  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/69
+#EXTINF:-1  group-title="Lista 19",LAT | ESPN 2  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/71
+#EXTINF:-1  group-title="Lista 19",LAT | ESPN 2  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/72
+#EXTINF:-1  group-title="Lista 19",LAT | ESPN 1  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/73
+#EXTINF:-1  group-title="Lista 19",LAT | ESPN 1  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/74
+#EXTINF:-1  group-title="Lista 19",LAT | ESPN  1  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/75
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS 3  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/76
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS 3 HD 
+http://latinoamericatv.vip:8080/horacio/horacio123/77
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS 3  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/78
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS 2  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/79
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS 2  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/80
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS 2  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/81
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS 1  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/82
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS 1  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/83
+#EXTINF:-1  group-title="Lista 19",DEP | FOX SPORTS 1  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/84
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS EC HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1308
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS  URU HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1309
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS PLUS  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1310
+#EXTINF:-1  group-title="Lista 19",LAT | DIRECTV SPORTS PLUS  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1311
+#EXTINF:-1  group-title="Lista 19",LAT | TNT SPORTS  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1312
+#EXTINF:-1  group-title="Lista 19",LAT | TNT SPORTS  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1313
+#EXTINF:-1  group-title="Lista 19",LAT | TNT SPORTS  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1379
+#EXTINF:-1  group-title="Lista 19",LAT | TYC SPORTS  INTERNACIONAL HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1380
+#EXTINF:-1  group-title="Lista 19",LAT | TYC SPORTS  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1381
+#EXTINF:-1  group-title="Lista 19",LAT | TYC SPORTS  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1382
+#EXTINF:-1  group-title="Lista 19",LAT | WIN SPORTS +  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1383
+#EXTINF:-1  group-title="Lista 19",LAT | WIN SPORTS +  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1384
+#EXTINF:-1  group-title="Lista 19",LAT | WIN SPORTS +  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1385
+#EXTINF:-1  group-title="Lista 19",LAT | GOL TV  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1386
+#EXTINF:-1  group-title="Lista 19",LAT | GOL TV  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1387
+#EXTINF:-1  group-title="Lista 19",LAT | GOL TV  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1388
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS. PREMIUM FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/11570
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS PREMIUM  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/11571
+#EXTINF:-1  group-title="Lista 19",LAT | FOX SPORTS PREMIUM SD
+http://latinoamericatv.vip:8080/horacio/horacio123/11572
+#EXTINF:-1  group-title="Lista 19",LAT |  SKY SPORTS LATINO HD
+http://latinoamericatv.vip:8080/horacio/horacio123/15558
+#EXTINF:-1  group-title="Lista 19",MX | AFIZZIONADOS
+http://latinoamericatv.vip:8080/horacio/horacio123/68638
+#EXTINF:-1  group-title="Lista 19",LAT | CLARO SPORTS HD
+http://latinoamericatv.vip:8080/horacio/horacio123/68639
+#EXTM3U
+#EXTINF:-1  group-title="Lista 19",INF | BABY TV (P)
+http://latinoamericatv.vip:8080/horacio/horacio123/111
+#EXTINF:-1  group-title="Lista 19",INF* | TOONCAST SD (N)
+http://latinoamericatv.vip:8080/horacio/horacio123/112
+#EXTINF:-1  group-title="Lista 19",INF* | BOOMERANG  (T)
+http://latinoamericatv.vip:8080/horacio/horacio123/113
+#EXTINF:-1  group-title="Lista 19",INF* | CARTOON NETWORK HD (T)
+http://latinoamericatv.vip:8080/horacio/horacio123/114
+#EXTINF:-1  group-title="Lista 19",INF* | NICK (y)
+http://latinoamericatv.vip:8080/horacio/horacio123/115
+#EXTINF:-1  group-title="Lista 19",INF* | NICKTOONS (T)
+http://latinoamericatv.vip:8080/horacio/horacio123/116
+#EXTINF:-1  group-title="Lista 19",INF* | NICK 2 HD (P)
+http://latinoamericatv.vip:8080/horacio/horacio123/117
+#EXTINF:-1  group-title="Lista 19",INF* | NATGEO KIDS (E)
+http://latinoamericatv.vip:8080/horacio/horacio123/118
+#EXTINF:-1  group-title="Lista 19",INF* | DISNEY XD (A)
+http://latinoamericatv.vip:8080/horacio/horacio123/119
+#EXTINF:-1  group-title="Lista 19",INF* | DISNEY JR (P)
+http://latinoamericatv.vip:8080/horacio/horacio123/120
+#EXTINF:-1  group-title="Lista 19",INF* | DISNEY CHANNEL HD (T)
+http://latinoamericatv.vip:8080/horacio/horacio123/121
+#EXTINF:-1  group-title="Lista 19",INF* | DISCOVERY KIDS (L)
+http://latinoamericatv.vip:8080/horacio/horacio123/122
+#EXTINF:-1  group-title="Lista 19",INF* | NICK JR HD
+http://latinoamericatv.vip:8080/horacio/horacio123/123
+#EXTINF:-1  group-title="Lista 19",INF* | Nickelodeon hd
+http://latinoamericatv.vip:8080/horacio/horacio123/124
+#EXTINF:-1  group-title="Lista 19",INF | Nat Geo Kids SD(H)
+http://latinoamericatv.vip:8080/horacio/horacio123/125
+#EXTM3U
+#EXTINF:-1  group-title="Lista 19",DISCOVERY Channel SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53457
+#EXTINF:-1  group-title="Lista 19",ANIMAL Planet SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53458
+#EXTINF:-1  group-title="Lista 19",ANIMAL Planet HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53459
+#EXTINF:-1  group-title="Lista 19",CANAL COCINA
+http://latinoamericatv.vip:8080/horacio/horacio123/53460
+#EXTINF:-1  group-title="Lista 19",DISCOVERY Investigation SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53462
+#EXTINF:-1  group-title="Lista 19",DISCOVERY Investigation HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53463
+#EXTINF:-1  group-title="Lista 19",DISCOVERY Science
+http://latinoamericatv.vip:8080/horacio/horacio123/53464
+#EXTINF:-1  group-title="Lista 19",DISCOVERY Theater SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53465
+#EXTINF:-1  group-title="Lista 19",DISCOVERY Theater HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53466
+#EXTINF:-1  group-title="Lista 19",DISCOVERY Turbo SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53467
+#EXTINF:-1  group-title="Lista 19",DISCOVERY Turbo HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53468
+#EXTINF:-1  group-title="Lista 19",DISCOVERY World SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53469
+#EXTINF:-1  group-title="Lista 19",DISCOVERY World HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53470
+#EXTINF:-1  group-title="Lista 19",E! Entretainment SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53472
+#EXTINF:-1  group-title="Lista 19",E! Entretainment HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53473
+#EXTINF:-1  group-title="Lista 19",EL GOURMET
+http://latinoamericatv.vip:8080/horacio/horacio123/53474
+#EXTINF:-1  group-title="Lista 19",History SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53481
+#EXTINF:-1  group-title="Lista 19",History HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53482
+#EXTINF:-1  group-title="Lista 19",History 2 SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53483
+#EXTINF:-1  group-title="Lista 19",NATGEO WILD SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53488
+#EXTINF:-1  group-title="Lista 19",NATIONAL Geographic HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53489
+#EXTINF:-1  group-title="Lista 19",TLC SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53491
+#EXTINF:-1  group-title="Lista 19",TLC HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53492
+#EXTINF:-1  group-title="Lista 19",CUL | NAT GEO
+http://latinoamericatv.vip:8080/horacio/horacio123/54171
+#EXTINF:-1  group-title="Lista 19",CUL | DISCOVERY H&H  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/54172
+#EXTM3U
+#EXTINF:-1  group-title="Lista 19",ARG: HBO
+http://latinoamericatv.vip:8080/horacio/horacio123/1395
+#EXTINF:-1  group-title="Lista 19",ARG: HBO PLUS HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1396
+#EXTINF:-1  group-title="Lista 19",ARG: HBO 2 HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13537
+#EXTINF:-1  group-title="Lista 19",ARG: HBO MUNDI
+http://latinoamericatv.vip:8080/horacio/horacio123/13538
+#EXTINF:-1  group-title="Lista 19",ARG: HBO POP
+http://latinoamericatv.vip:8080/horacio/horacio123/13539
+#EXTINF:-1  group-title="Lista 19",ARG: HBO XTREME
+http://latinoamericatv.vip:8080/horacio/horacio123/13540
+#EXTINF:-1  group-title="Lista 19",ARG: HBO SIGNATURE HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13541
+#EXTINF:-1  group-title="Lista 19",HBO Plus HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13542
+#EXTINF:-1  group-title="Lista 19",HBO Signature HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13543
+#EXTINF:-1  group-title="Lista 19",HBO
+http://latinoamericatv.vip:8080/horacio/horacio123/13545
+#EXTINF:-1  group-title="Lista 19",HBO 2
+http://latinoamericatv.vip:8080/horacio/horacio123/13546
+#EXTINF:-1  group-title="Lista 19",HBO XTREME
+http://latinoamericatv.vip:8080/horacio/horacio123/13547
+#EXTINF:-1  group-title="Lista 19",HBO POP
+http://latinoamericatv.vip:8080/horacio/horacio123/13548
+#EXTINF:-1  group-title="Lista 19",LA:HBO
+http://latinoamericatv.vip:8080/horacio/horacio123/13549
+#EXTINF:-1  group-title="Lista 19",LA: HBO FAMILY
+http://latinoamericatv.vip:8080/horacio/horacio123/13550
+#EXTM3U
+#EXTINF:-1  group-title="Lista 19",ARG: STAR MOVIES HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1389
+#EXTINF:-1  group-title="Lista 19",ARG: STAR SERIES
+http://latinoamericatv.vip:8080/horacio/horacio123/1390
+#EXTINF:-1  group-title="Lista 19",ARG: STAR ACTION HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13514
+#EXTINF:-1  group-title="Lista 19",ARG: STAR FAMILY HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13515
+#EXTINF:-1  group-title="Lista 19",ARG: FOX COMEDY HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13516
+#EXTINF:-1  group-title="Lista 19",ARG: STAR  CINEMA HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13517
+#EXTINF:-1  group-title="Lista 19",ARG: STAR CHANEL HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13518
+#EXTINF:-1  group-title="Lista 19",STAR SERIES HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13522
+#EXTINF:-1  group-title="Lista 19",STAR MOVIES HD
+http://latinoamericatv.vip:8080/horacio/horacio123/13523
+#EXTINF:-1  group-title="Lista 19",STAR LIFE
+http://latinoamericatv.vip:8080/horacio/horacio123/13526
+#EXTINF:-1  group-title="Lista 19",STAR FAMILY
+http://latinoamericatv.vip:8080/horacio/horacio123/13527
+#EXTINF:-1  group-title="Lista 19",STAR ACTION
+http://latinoamericatv.vip:8080/horacio/horacio123/13529
+#EXTINF:-1  group-title="Lista 19",STAR CINEMA
+http://latinoamericatv.vip:8080/horacio/horacio123/13531
+#EXTINF:-1  group-title="Lista 19",STAR CLASSICS
+http://latinoamericatv.vip:8080/horacio/horacio123/13532
+#EXTINF:-1  group-title="Lista 19",STAR COMEDY
+http://latinoamericatv.vip:8080/horacio/horacio123/13533
+#EXTM3U
+#EXTINF:-1  group-title="Lista 19",CINE  | A&E FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/4
+#EXTINF:-1  group-title="Lista 19",CINE  | A&E HD
+http://latinoamericatv.vip:8080/horacio/horacio123/5
+#EXTINF:-1  group-title="Lista 19",CINE  | A&E SD
+http://latinoamericatv.vip:8080/horacio/horacio123/6
+#EXTINF:-1  group-title="Lista 19",CINE  | CINEMAX  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/7
+#EXTINF:-1  group-title="Lista 19",CINE  | CINEMAX HD
+http://latinoamericatv.vip:8080/horacio/horacio123/8
+#EXTINF:-1  group-title="Lista 19",CINE  | CINEMAX  MX SD
+http://latinoamericatv.vip:8080/horacio/horacio123/9
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR  CLASSICS  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/13
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR CLASSICS HD
+http://latinoamericatv.vip:8080/horacio/horacio123/14
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR CLASSICS  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/15
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR HITS  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/16
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR HITS  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/17
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR HITS SD
+http://latinoamericatv.vip:8080/horacio/horacio123/18
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR FUN  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/19
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR FUN  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/20
+#EXTINF:-1  group-title="Lista 19",CINE  |  STAR FUN SD
+http://latinoamericatv.vip:8080/horacio/horacio123/21
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR COMEDY  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/22
+#EXTINF:-1  group-title="Lista 19",CINE  |  STAR COMEDY  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/23
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR COMEDY  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/24
+#EXTINF:-1  group-title="Lista 19",CINE  | STAR SERIES  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/26
+#EXTINF:-1  group-title="Lista 19",CINE | STAR SERIES  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/27
+#EXTINF:-1  group-title="Lista 19",CINE | STAR SERIES  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/28
+#EXTINF:-1  group-title="Lista 19",CINE | STAR CHANNEL  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/29
+#EXTINF:-1  group-title="Lista 19",CINE | STAR CHANNEL  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/30
+#EXTINF:-1  group-title="Lista 19",CINE | STAR CHANNEL  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/31
+#EXTINF:-1  group-title="Lista 19",CINE | STAR CINEMA  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/32
+#EXTINF:-1  group-title="Lista 19",CINE | STAR CINEMA  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/33
+#EXTINF:-1  group-title="Lista 19",CINE | STAR CINEMA  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/34
+#EXTINF:-1  group-title="Lista 19",CINE | STAR ACTION  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/35
+#EXTINF:-1  group-title="Lista 19",CINE | STAR ACTION  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/36
+#EXTINF:-1  group-title="Lista 19",CINE | STAR ACTION  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/37
+#EXTINF:-1  group-title="Lista 19",CINE | STAR LIFE  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/38
+#EXTINF:-1  group-title="Lista 19",CINE | STAR LIFE HD
+http://latinoamericatv.vip:8080/horacio/horacio123/40
+#EXTINF:-1  group-title="Lista 19",CINE | STAR LIFE  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/41
+#EXTINF:-1  group-title="Lista 19",CINE |  HBO 2  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/42
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO 2  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/43
+#EXTINF:-1  group-title="Lista 19",CINE | HBO 2  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/44
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO SIGNATURE  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/45
+#EXTINF:-1  group-title="Lista 19",CINE | HBO SIGNATURE  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/46
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO SIGNATURE  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/47
+#EXTINF:-1  group-title="Lista 19",CINE | HBO PLUS  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/48
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO PLUS  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/49
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO PLUS  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/50
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO FAMILY  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/51
+#EXTINF:-1  group-title="Lista 19",CINE | HBO FAMILY  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/52
+#EXTINF:-1  group-title="Lista 19",CINE | HBO FAMILY  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53
+#EXTINF:-1  group-title="Lista 19",CINE | HBO  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/54
+#EXTINF:-1  group-title="Lista 19",CINE | HBO  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/55
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1240
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO POP  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1241
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO POP  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1242
+#EXTINF:-1  group-title="Lista 19",CINE  | HBO POP  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1243
+#EXTINF:-1  group-title="Lista 19",CINE  | TNT  FHD 
+http://latinoamericatv.vip:8080/horacio/horacio123/1244
+#EXTINF:-1  group-title="Lista 19",CINE  | TNT  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1245
+#EXTINF:-1  group-title="Lista 19",CINE  | TNT  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1246
+#EXTINF:-1  group-title="Lista 19",CINE  | TNT SERIES  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1247
+#EXTINF:-1  group-title="Lista 19",CINE | TNT SERIES  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1248
+#EXTINF:-1  group-title="Lista 19",CINE |  TNT SERIES  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1250
+#EXTINF:-1  group-title="Lista 19",CINE | CINECANAL  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1251
+#EXTINF:-1  group-title="Lista 19",CINE | CINECANAL  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1252
+#EXTINF:-1  group-title="Lista 19",CINE | CINECANAL  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1253
+#EXTINF:-1  group-title="Lista 19",CINE | AXN  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1254
+#EXTINF:-1  group-title="Lista 19",CINE | AXN  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1255
+#EXTINF:-1  group-title="Lista 19",CINE | AXN  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1257
+#EXTINF:-1  group-title="Lista 19",CINE | WARNER  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1258
+#EXTINF:-1  group-title="Lista 19",CINE | WARNER  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1259
+#EXTINF:-1  group-title="Lista 19",CINE | WARNER  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1260
+#EXTINF:-1  group-title="Lista 19",CINE | SONY  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1261
+#EXTINF:-1  group-title="Lista 19",CINE | SONY  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1263
+#EXTINF:-1  group-title="Lista 19",CINE | SONY  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1264
+#EXTINF:-1  group-title="Lista 19",CINE | TCM  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1265
+#EXTINF:-1  group-title="Lista 19",CINE | TCM  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1266
+#EXTINF:-1  group-title="Lista 19",CINE |  TCM  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1267
+#EXTINF:-1  group-title="Lista 19",CINE | UNIVERSAL CHANEL  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1268
+#EXTINF:-1  group-title="Lista 19",CINE | UNIVERSAL CHANEL  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1269
+#EXTINF:-1  group-title="Lista 19",CINE | UNIVERSAL CHANEL  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1270
+#EXTINF:-1  group-title="Lista 19",CINE | STUDIO UNIVERSAL  FHD 
+http://latinoamericatv.vip:8080/horacio/horacio123/1271
+#EXTINF:-1  group-title="Lista 19",CINE  | STUDIO UNIVERSAL  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1272
+#EXTINF:-1  group-title="Lista 19",CINE  | STUDIO UNIVERSAL  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1273
+#EXTINF:-1  group-title="Lista 19",CINE | FX  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1274
+#EXTINF:-1  group-title="Lista 19",CINE | FX  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1275
+#EXTINF:-1  group-title="Lista 19",CINE | FX  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1276
+#EXTINF:-1  group-title="Lista 19",CINE | FXM  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1277
+#EXTINF:-1  group-title="Lista 19",CINE | FXM  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1278
+#EXTINF:-1  group-title="Lista 19",CINE | FXM  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1279
+#EXTINF:-1  group-title="Lista 19",CINE | SPACE CHANEL  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1280
+#EXTINF:-1  group-title="Lista 19",CINE | SPACE CHANEL  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1281
+#EXTINF:-1  group-title="Lista 19",CINE | SPACE CHANEL  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1282
+#EXTINF:-1  group-title="Lista 19",CINE | AMC  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1283
+#EXTINF:-1  group-title="Lista 19",CINE | AMC HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1284
+#EXTINF:-1  group-title="Lista 19",CINE | AMC  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1285
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1286
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1287
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1288
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN EDG  FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/1289
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN EDG  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1290
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN EDG  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1291
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN PREMIER  FHD 
+http://latinoamericatv.vip:8080/horacio/horacio123/1292
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN PREMIER  HD
+http://latinoamericatv.vip:8080/horacio/horacio123/1293
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN PREMIER  SD
+http://latinoamericatv.vip:8080/horacio/horacio123/1294
+#EXTINF:-1  group-title="Lista 19",CINE | PARAMOUNT CHANEL FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/53937
+#EXTINF:-1  group-title="Lista 19",CINE | PARAMOUNT CHANEL HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53938
+#EXTINF:-1  group-title="Lista 19",CINE | PARAMOUNT CHANEL SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53939
+#EXTINF:-1  group-title="Lista 19",CINE GOLDEN PLUS FHD
+http://latinoamericatv.vip:8080/horacio/horacio123/53940
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN PLUS HD
+http://latinoamericatv.vip:8080/horacio/horacio123/53941
+#EXTINF:-1  group-title="Lista 19",CINE | GOLDEN PLUS SD
+http://latinoamericatv.vip:8080/horacio/horacio123/53942
